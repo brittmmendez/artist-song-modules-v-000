@@ -1,4 +1,5 @@
 module Memorable
+
   def reset_all
     all.clear
   end
@@ -6,7 +7,5 @@ module Memorable
   def count
     all.count
   end
-
-
 
 end
